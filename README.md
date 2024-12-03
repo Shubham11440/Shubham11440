@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/shubham6621/ OR shubhamvmali06@gmail.com**
 
-- 👨‍💻 I’m currently learning **Full Stack Development, AWS and Data Structures and Algorithm**
+- 👨‍💻 I’m currently learning **Full Stack Development and Data Structures and Algorithm**
 
 - 🤝 I’m looking to collaborate on **MERN projects**
 
