@@ -1,44 +1,79 @@
-![logo](https://github.com/Shubham11440/Shubham11440/blob/main/1708174363695.jpeg)
-<h4 align="center">Explore my work on my <a href="" target="_blank">Portfolio ⭐</a></h4>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham6621&label=Profile%20views&color=0e75b6&style=flat" alt="shubham6621" /> </p>
+<!-- 🧠 Masterhead Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=Hey!%20I'm%20Shubham%20Mali%20🚀&fontSize=30&fontColor=ffffff)
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;Full-Stack+Developer+%7C+Open+Source+Lover;React+%7C+Node.js+%7C+MongoDB;Learning+DevOps+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-- 🎓 I am a Student at [IIIT Bhopal](https://iiitbhopal.ac.in/#!/)
+<img align="right" alt="coding-gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c89b5f3ec5c2.gif" />
 
-- 📫 How to reach me **https://www.linkedin.com/in/shubham6621/ OR shubhamvmali06@gmail.com**
-
-- 👨‍💻 I’m currently learning **Full Stack Development and Data Structures and Algorithm**
-
-- 🤝 I’m looking to collaborate on **MERN projects**
-
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-ReactJS   5 hrs 42 mins   █████████████████████░░░░   84.41 %
-Bash         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-CSS          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-HTML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-```
-
-<!--END_SECTION:waka-->
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shubham4095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham4095" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham6621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham6621" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shubham_0336/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shubham_0336/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubham_4095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham_4095" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Shubham11440&label=Profile%20Views&color=0e75b6&style=flat" alt="Shubham11440" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🌱 Currently building **MERN stack** projects and exploring **Next.js & DevOps**
+- 🛠️ Technologies I use: **React.js, Node.js, MongoDB, Tailwind CSS**
+- 💻 Solved **250+ DSA problems** and participated in **Graph Theory Camp**
+- 🥇 GDSC Ideathon **Winner**, Codeforces **Specialist**
+- 📚 Exploring system design, APIs, and scalable backend systems
+- ⚡ Fun fact: **Love coding during rainy bike rides 🌧️🏍️**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham11440&show_icons=true&locale=en&layout=compact" alt="shubham11440" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham11440&show_icons=true&locale=en" alt="shubham11440" /></p>
+### 🌐 Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham11440&" alt="shubham11440" /></p>
-<p align="left"> <a href="https://twitter.com/shubham4095" target="blank"><img src="https://img.shields.io/twitter/follow/shubham4095?logo=twitter&style=for-the-badge" alt="shubham4095" /></a> </p>
+<p align="center">
+  <a href="mailto:shubhamvmali06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shubham1144/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Shubham11440" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwindcss,bootstrap,html,css,figma,git,docker" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham11440&theme=tokyonight" alt="Streak Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham11440&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham11440&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+- 🏅 **1st Place** – GDSC Ideathon, IIIT Bhopal
+- 🌟 CodeChef: 3⭐ (Peak 1669)
+- 📈 Codeforces: **Specialist** (1440+)
+- 👨‍💻 10+ JavaScript projects focused on core concepts
+- 🎓 Web Master at **IEEE IIIT Bhopal** (2024–25)
+
+---
+
+### 📂 Notable Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **Imagify** | Full-stack SaaS app using Clipdrop & Stripe | React, Node.js, MongoDB |
+| **MindSync AI** | AI chat app using Tailwind & Redux | React, Redux Toolkit |
+| **Weather App** | Fetches real-time weather data | React, OpenWeather API |
+| **Self-Driving Car Sim** | JS project without libraries | HTML, CSS, Vanilla JS |
+
+---
+
+### 💭 Random Dev Quote
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" /> </div>
+
+---
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Thanks+for+stopping+by!+🙏;Let's+build+something+amazing+together!+🚀;Always+open+to+new+opportunities+💡" alt="Closing Message" /> </div> ```
+
