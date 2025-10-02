@@ -49,7 +49,8 @@
 </p>
 
 ---
-
+![Hacktoberfest 2025 Badge](https://holopin.me/shubham11440)
+---
 ### 🏆 Achievements
 
 - 🏅 **1st Place** – GDSC Ideathon, IIIT Bhopal
