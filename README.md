@@ -11,6 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=Shubham11440&label=Profile%20Views&color=0e75b6&style=flat" alt="Shubham11440" />
 </p>
 
+<p align="center"><b>
+I build scalable full-stack web apps and love turning ideas into production-ready products.
+</b></p>
+
 - 🌱 Currently building **MERN stack** projects and exploring **Next.js & DevOps**
 - 🛠️ Technologies I use: **React.js, Node.js, MongoDB, Tailwind CSS**
 - 💻 Solved **250+ DSA problems** and participated in **Graph Theory Camp**
